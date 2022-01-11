@@ -152,9 +152,9 @@
     background-color: red;
 } */
 
-.two{
+/* .two{
     background-color: green;
-}
+} */
 
 .three{
     background-color: blue;
@@ -182,4 +182,21 @@
     height: 60%;
     background-color: #aeff2b;
     margin-top: 212px;
+}
+
+.equal-four-boxes{
+    width: 100%;
+    height: 25%;
+}
+
+.equal-c-one{
+    background-color: #aed9e7;
+}
+
+.equal-c-two{
+    background-color: #00008c;
+}
+
+.equal-c-three{
+    background-color: #8c008c;
 }
