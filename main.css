@@ -200,3 +200,18 @@
 .equal-c-three{
     background-color: #8c008c;
 }
+
+.equal-two-boxes{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.equal-c-four{
+    background-color: #fdf5e7;
+
+}
+
+.equal-c-five{
+    background-color: #fa8173;
+}
