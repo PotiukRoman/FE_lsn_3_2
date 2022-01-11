@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    width: 80%;
+    height: 1000px;
+    margin: 10px auto;
+}
+
+.block{
+    width: 100%;
+    height: 25%;
+    background-color:#FAEBD7;
+    margin: auto;
+    
+}
+
+.hat{
+    padding: 5px;
+}
+
+.menu{
+    height: 15%;
+}
+
+.content{
+    height: 45%;
+}
+
+.basement{
+    height: 15%;
+}
+
+.internal{
+    width: 80%;
+    height: 50%;
+    background-color:#D2B48C;
+    margin:60px auto;
+    padding: 25px;
+}
+
+.text{
+    width: 50%;
+    height: 50%;
+    font-size: 30px;
+    background-color: white;
+    text-align:center;
+    margin: 20px auto;
+}
+
+.menu-block{
+    height: 100%;
+    width: 20%;
+    font-size: 30px;
+    text-align:center;
+    /* border: 1px solid black; */
+    float: left;
+}
+
+.menu-block-one{
+    background-color: #5F9EA0;
+}
+
+.menu-block-two{
+    background-color: #6495ED;
+}
+
+.menu-block-three{
+    background-color: #F5DEB3;
+}
+
+.menu-block-four{
+    background-color:  #F08080;
+}
+
+.menu-block-five{
+    background-color:  #4B0082;
+}
+
+.content-block{
+    height: 100%;
+    width: 33.33%;
+    font-size: 30px;
+    text-align:center;
+    /* border: 1px solid black; */
+    float: left;
+}
+
+.content-block-one{
+    background-color:#008100;
+}
+
+.small-text{
+    width: 60%;
+    height: 20%;
+    background-color: #c1c1c1;
+    text-align:center;
+    margin: 23px auto;
+    padding: 25px;
+}
+
+.three-blocks{
+    width: 40%;
+    height: 70%;
+    /* border: 1px solid black; */
+    margin:15px auto;
+}
+
+.internal-block-number-three{
+    width: 100%;
+    height: 30%;
+    /* border: 1px solid black; */
+    background-color: #8c0000;
+}
+
+.internal-block-number-four{
+    background-color: #fa8173;
+}
+
+.internal-block-number-five{
+    background-color: #beb86b;
+}
+
+.twins{
+    width: 50%;
+    height: 70%;
+    /* border: 1px solid black; */
+    float: left;
+}
+
+.big-a-block{
+    width: 100%;
+    height: 12%;
+    background-color: #008181;
+}
+
+.bottom-block{
+    width: 100%;
+    height: 88%;
+}
+
+.vertical-block{
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+
+/* .one{
+    background-color: red;
+} */
+
+.two{
+    background-color: green;
+}
+
+.three{
+    background-color: blue;
+}
+
+.big-b-block{
+    width: 100%;
+    height: 62.5%;
+    background-color: #66ceac;
+}
+
+.small-vertical{
+    float: left;
+}
+
+.small-vertical-b-one{
+    width: 50%;
+    height: 120%;
+    background-color: #a62525;
+    margin-top: 99px;
+}
+
+.small-vertical-b-two{
+    width: 50%;
+    height: 60%;
+    background-color: #aeff2b;
+    margin-top: 212px;
+}
