@@ -155,16 +155,20 @@
 
 .small-vertical-b-one{
     width: 50%;
-    height: 120%;
+    height: 200%;
     background-color: #a62525;
-    margin-top: 99px;
+    margin-top: -148px;
 }
 
 .small-vertical-b-two{
     width: 50%;
-    height: 60%;
+    height: 100%;
     background-color: #aeff2b;
-    margin-top: 212px;
+}
+
+.bottom-wrapper{
+    width: 100%;
+    height: 37.5%;
 }
 
 .equal-four-boxes{
