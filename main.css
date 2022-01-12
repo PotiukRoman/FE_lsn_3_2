@@ -240,3 +240,51 @@ img{
     text-align:center;
     background-color: #696969;
 }
+
+.one-two-three-roman-block{
+    width: 100%;
+    height: 12%;
+    background-color:white;
+}
+
+.three-equals-roman{
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+
+.one-roman{
+    background-color:#90bd90;
+}
+
+.two-roman{
+    background-color:#db71d7;
+}
+
+.three-roman{
+    background-color:#ff804f;
+}
+.without-number-and-red-block-wrapper{
+    width: 100%;
+    height: 17%;
+}
+
+.without-number-block{
+    width: 100%;
+    height: 17%;
+    background-color:#faf0e7;
+    padding-top: 20px;
+}
+
+.red-block-inside{
+    width: 50%;
+    height: 50%;
+    background-color:#ff0000;
+    margin: auto;
+}
+
+.six-roman-block{
+    width: 100%;
+    height: 16%;
+    background-color:green;
+}
