@@ -264,6 +264,7 @@ img{
 .three-roman{
     background-color:#ff804f;
 }
+
 .without-number-and-red-block-wrapper{
     width: 100%;
     height: 17%;
@@ -286,5 +287,60 @@ img{
 .six-roman-block{
     width: 100%;
     height: 16%;
-    background-color:green;
+    background-color:#dddddd;
+}
+
+.black-block-inside{
+    width: 8%;
+    height: 15%;
+    background-color:black;
+    margin: -11px auto;
+}
+
+.seven-eleven-roman-block{
+    width: 100%;
+    height: 55%;
+}
+
+.beside-right-down-block{
+    float: left;
+}
+
+.seven-roman-block{
+    width: 33.33%;
+    height: 100%;
+    background-color:#2b4e4e;
+}
+
+.eight-to-eveven{
+    width: 66.66%;
+    height: 100%;
+    background-color:red;
+}
+
+.top-middle-bottom{
+    width: 100%;
+    height: 33.33%;
+}
+
+.eight-block{
+    background-color:#718191;
+}
+
+.eleven-block{
+    background-color:#dea1de;
+}
+
+.beside-nine-ten-block{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.nine-block{
+    background-color:#8b27e3;
+}
+
+.ten-block{
+    background-color:#fafad3;
 }
